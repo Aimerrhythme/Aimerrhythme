@@ -14,7 +14,7 @@ Power & IoT engineer (MEng, University of Sydney). Building open teaching tools 
 
 **About**
 
-- 🏫 Teaching-oriented EE × ML materials for 专科 / 专升本 (and occasional undergrad)
+- 🏫 Teaching-oriented EE × ML materials
 - 🛠️ Dual-runtime lab toolkit: MATLAB + Python, classroom-ready
 - ⚡ Focus: power systems, renewables, load analytics, IoT
 
