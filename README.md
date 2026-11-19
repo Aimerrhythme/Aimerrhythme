@@ -6,7 +6,7 @@
 
 Power & IoT engineer (MEng, University of Sydney). Building open teaching tools for vocational / junior-college EE courses — lab demos, not ghostwriting.
 
-电力与物联网 · 悉尼大学 MEng · 开源 EE×AI 教学材料。
+ MEng ·EE×AI 。
 
 <table>
 <tr>
